@@ -1,1 +1,1 @@
-This project is a Dockerfile for running the Baxter SDk. Ros indigo depends on older versions of ubuntu, So I made a Dockerfile to run it in the appropriate Container.The baxter messages all work and you can use baxter as expected.
+This project is a Dockerfile for running the Baxter SDK. Ros indigo depends on older versions of ubuntu, So I made a Dockerfile to run it in the appropriate Container.The baxter messages all work and you can use baxter as expected.
